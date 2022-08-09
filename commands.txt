@@ -1,0 +1,629 @@
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~
+$ cd OneDrive/Desktop
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop
+$ ls
+ 6a075a30f9c70c97973ca93171b68f5884501783b6c920f92265fd7768a96650_1636954082392_Statement.pdf
+'AIDA64 Extreme.lnk'*
+'Apex Legends.url'
+'Counter-Strike Global Offensive.url'
+ CrossFire.lnk*
+ Discord.lnk*
+ Downloads/
+ Excel.lnk*
+'Fall Guys.url'
+ Grammarly.lnk*
+ Kindle.lnk*
+'Left 4 Dead 2.url'
+ MapleStory.url
+ Messenger.lnk*
+ MicroLab1/
+'Microsoft Teams.lnk'*
+'OANDA Desktop Live.lnk'*
+'OANDA Desktop Practice.lnk'*
+ PerScholas/
+ PowerPoint.lnk*
+ Slack.lnk*
+ Spotify.lnk*
+'StockX_ The Stock Market of Things.pdf'
+'Vampire The Masquerade - Bloodhunt.url'
+'Visual Studio Code.lnk'*
+ Word.lnk*
+ Zoom.lnk*
+ Zoom_BG4_Bright-Office.jpg
+ anime-gundam-asw-g-08-gundam-barbatos-iron-blooded-orphans-wallpaper-preview.jpg
+ desktop.ini
+ py4e/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop
+$ cd PerScolas
+bash: cd: PerScolas: No such file or directory
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop
+$ cd PerScholas
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas
+$ ls
+Dev/  github_practice/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas
+$ cd Dev
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev
+$ cd lab
+bash: cd: lab: No such file or directory
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev
+$ cd labs
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs
+$ ls
+commands.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs
+$ mkdir galaxy-far-far-away
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs
+$ cd galaxy-far-far-away/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ mkdir death_star tatooine
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ ls
+death_star/  tatooine/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd death_star/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ touch darth_vadar.txt princess_leia.txt storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ;s
+bash: syntax error near unexpected token `;'
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+darth_vadar.txt  princess_leia.txt  storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd tatooine/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ touch luke.txt ben_kenobi.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ mkdir millenium_falcon
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cd millenium_falcon/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine/millenium_falcon
+$ touch han_solo.txt chewbaca.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine/millenium_falcon
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ ls
+ben_kenobi.txt  luke.txt  millenium_falcon/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ mv- ben_kenobi.txt obi_wan.txt
+bash: mv-: command not found
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ mv ben_kenobi.txt obi_wan.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd death_star/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt tatooine
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+darth_vadar.txt  princess_leia.txt  storm_trooper.txt  tatooine
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~
+$ ls
+'3D Objects'/
+ AMDRM_Install.log
+ AMD_RyzenMaster.log
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ MicrosoftEdgeBackups/
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ansel/
+ iCloudDrive/
+ iCloudPhotos/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~
+$ cd OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ ls
+death_star/  tatooine/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd death_star/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+darth_vadar.txt  princess_leia.txt  storm_trooper.txt  tatooine
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ rm -r tatooine
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+darth_vadar.txt  princess_leia.txt  storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd tat
+bash: cd: tat: No such file or directory
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd tatooine/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cp storm_trooper.txt /tatooine
+cp: cannot stat 'storm_trooper.txt': No such file or directory
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cp /death_star/storm_trooper.txt /tatooine
+cp: cannot stat '/death_star/storm_trooper.txt': No such file or directory
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cp ../death_star/storm_trooper.txt /tatooine
+cp: cannot create regular file '/tatooine': Permission denied
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cp .../death_star/storm_trooper.txt /tatooine
+cp: cannot stat '.../death_star/storm_trooper.txt': No such file or directory
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cp ~/death_star/storm_trooper.txt /tatooine
+cp: cannot stat '/c/Users/ricky/death_star/storm_trooper.txt': No such file or directory
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cp /~death_star/storm_trooper.txt /tatooine
+cp: cannot stat '/~death_star/storm_trooper.txt': No such file or directory
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cp /~death_star/storm_trooper.txt /tatooine
+cp: cannot stat '/~death_star/storm_trooper.txt': No such file or directory
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd death_star/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt  ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+darth_vadar.txt  princess_leia.txt  storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ ls
+death_star/  tatooine/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd tatooine/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ ls
+luke.txt  millenium_falcon/  obi_wan.txt  storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ mv luke.txt ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine/millenium_falcon
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ mv obi_wan.txt ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine/millenium_falcon
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ ls
+millenium_falcon/  storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cd millenium_falcon/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  obi_wan.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine/millenium_falcon
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ mv millenium_falcon/ ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine/millenium_falcon
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$  mv millenium_falcon/ ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ ls
+storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/tatooine
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ ls
+death_star/  millenium_falcon/  tatooine/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ mv millenium_falcon/ ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd death_star/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+darth_vadar.txt  millenium_falcon/  princess_leia.txt  storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ mv princess_leia.txt  ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/millenium_falcon/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+darth_vadar.txt  millenium_falcon/  storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd millenium_falcon/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  obi_wan.txt  princess_leia.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/millenium_falcon
+$ rm -r obi_wan.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  princess_leia.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/millenium_falcon
+$ cd..
+bash: cd..: command not found
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/millenium_falcon
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ mkdir yavin_4
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd death_star/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+darth_vadar.txt  millenium_falcon/  storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ mv millenium_falcon/  ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+darth_vadar.txt  storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ ls
+death_star/  tatooine/  yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ mkdir x_wing
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  x_wing/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ cd millenium_falcon/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt  luke.txt  princess_leia.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/millenium_falcon
+$
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/millenium_falcon
+$ mv princess_leia.txt ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/millenium_falcon
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  princess_leia.txt  x_wing/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ cd millenium_falcon/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/millenium_falcon
+$ mv luke.txt ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/x_wing/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/millenium_falcon
+$ ls
+chewbaca.txt  han_solo.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/millenium_falcon
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ ls
+millenium_falcon/  princess_leia.txt  x_wing/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ mv millenium_falcon/ ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ mv x_wing/ ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ mv x_wing/ ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ ls
+death_star/  millenium_falcon/  tatooine/  x_wing/  yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd death_star/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ mkdir tie_fighter_1 tie_fighter_2 tie_fighter_3
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+darth_vadar.txt  storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ mv darth_vadar.txt ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_1
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd tie_fighter_1
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_1
+$ ls
+darth_vadar.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_1
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cp storm_trooper.txt tie_fighter_2
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd tie_fighter_2
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ ls
+storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ cp storm_trooper.txt tie_fighter_3
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ ls
+storm_trooper.txt  tie_fighter_3
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd tie_fighter_3
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_3
+$ ls
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_3
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ mv storm_trooper.txt tie_fighter_3
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd tie_fighter_3
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_3
+$ ls
+storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_3
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd tie_fighter_2
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ ls
+storm_trooper.txt  tie_fighter_3
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ rm -r tie_fighter_3
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ ls
+storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd tie_fighter_2
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ ls
+storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ cp storm_trooper.txt ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_2
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd tie_fighter_3
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_3
+$ ls
+storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star/tie_fighter_3
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ mv tie_fighter_1 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt  tie_fighter_2/  tie_fighter_3/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ mv tie_fighter_2 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ mv tie_fighter_3 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ ls
+storm_trooper.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/death_star
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ ls
+death_star/  millenium_falcon/  tatooine/  tie_fighter_1/  tie_fighter_2/  tie_fighter_3/  x_wing/  yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ rm -r tie_fighter_2
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ rm -r tie_fighter_3
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ cd x_wing/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/x_wing
+$ touch the_force.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/x_wing
+$ ls
+luke.txt  the_force.txt
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/x_wing
+$ cd ..
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ rm -r death_star/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ ls
+millenium_falcon/  tatooine/  tie_fighter_1/  x_wing/  yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ mv millenium_falcon/ ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ ls
+tatooine/  tie_fighter_1/  x_wing/  yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$ mv x_wing/ ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away/yavin_4/
+
+ricky@DESKTOP-SC9E4U0 MINGW64 ~/OneDrive/Desktop/PerScholas/Dev/labs/galaxy-far-far-away
+$
+
